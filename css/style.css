@@ -66,6 +66,11 @@ img {
     rotate: -180deg;
 }
 
+/*ifame*/
+iframe {
+  width: 100%;
+}
+
 
 /* ヘッダー ------------------------------ */
 .page-header {
