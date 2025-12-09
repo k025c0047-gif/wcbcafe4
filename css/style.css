@@ -311,3 +311,8 @@ img {
     height: 94.5%;
     width: 100%;
   }
+  /* CONTACT
+  ---------------------------------------*/
+  .cover-contact {
+    background-image: url(../images/cover-contact-s.webp);
+  }
